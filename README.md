@@ -5,3 +5,4 @@
 | Day | Problem Name       | Topic    | Link (filename)          |
 |-----|--------------------|----------|--------------------------|
 | 1   | FindMax            | Arrays   | [Findmax.cpp](Arrays/Findmax.cpp) |
+| 2   | Reverse String     | Strings  | [ReverseString.cpp](Strings/ReverseString.cpp) |
